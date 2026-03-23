@@ -1,6 +1,6 @@
 # ARANGAM Space Kit
 
-**The open-source thinking toolkit for building your cognitive operating system.**
+**The 7 skills no one taught you. Build your legacy, one pillar at a time.**
 
 > கற்க கசடறக் கற்பவை கற்றபின் நிற்க அதற்குத் தக.
 > *"Learn thoroughly what should be learned, and having learned, stand firm by that knowledge."*
@@ -10,13 +10,28 @@
 
 ## What Is This?
 
-This is the **public companion** to [ARANGAM OS](https://arangam.space), a cognitive operating system for individuals and organizations.
+This is the **public companion** to [ARANGAM OS](https://arangam.space) and the [YouTube series](https://youtube.com/@naveenriaz). It gives you the thinking tools to build your own cognitive operating system, whether you are an individual professional building your legacy or a founder scaling your organisation.
 
 It contains three things:
 
-1. **The Philosophy** (`/methodology`) — Why humans and organizations fail, and the principles behind fixing it.
+1. **The Philosophy** (`/methodology`) — Why ambitious professionals and organisations fail, and the principles behind fixing it.
 2. **The Curriculum** (`/curriculum`) — Full transcripts and diagrams from the [YouTube series](https://youtube.com/@naveenriaz).
 3. **The Kit** (`/kit`) — Blank thinking templates you can use today, in any text editor, without any software.
+
+---
+
+## Two Paths, One River
+
+The curriculum serves two audiences through the same 7 Pillars:
+
+| | 🏛️ Build Your Legacy (Individual) | 🏗️ Build Your Organisation (Team) |
+|---|---|---|
+| **For** | Entrepreneurs, professionals, coaches | SMB founders, team leads, consultants |
+| **Lens** | Your personal operating system | Your organisational architecture |
+| **Status** | ✅ **Active** (Series 1) | 🔜 Coming (Series 2) |
+| **Steal Kit** | `/kit/individual/` | `/kit/team/` |
+
+> Start with yourself. The organisation is an extension of the founder's operating system.
 
 ---
 
@@ -32,17 +47,17 @@ Every template contains guiding questions, not pre-filled answers. The structure
 
 ## The 7 Pillars
 
-The curriculum is organized around 7 pillars of cognitive and organizational capability:
+The curriculum is organized around 7 pillars of cognitive capability:
 
-| # | Pillar | Question It Answers |
-|---|--------|---------------------|
-| 1 | **Know Yourself** | Who am I? What does my organization stand for? |
-| 2 | **See Better** | What am I missing? How do I capture signal from noise? |
-| 3 | **Think Better** | Am I reasoning well, or just confirming my biases? |
-| 4 | **Decide Better** | Are my decisions traceable, reversible, and auditable? |
-| 5 | **Build Systems** | Am I building systems, or relying on heroes? |
-| 6 | **Deliver Change** | Why do transformations fail? How do I land change? |
-| 7 | **Learn Better** | Am I reflecting, or just repeating? |
+| # | Pillar | For You (Individual) | For Your Team (Organisation) |
+|---|--------|---------------------|------------------------------|
+| 1 | **Know Yourself** | Who am I really? What is my CORE identity? | What does my organisation stand for? |
+| 2 | **See Better** | What am I not noticing in my life? | What is my team missing in the market? |
+| 3 | **Think Better** | Am I reasoning well, or just confirming my biases? | Is my team debating or just agreeing? |
+| 4 | **Decide Better** | Are my life decisions documented and traceable? | Are our business decisions auditable? |
+| 5 | **Build Systems** | Do I have a personal operating system, or am I winging it? | Am I building systems, or relying on heroes? |
+| 6 | **Deliver Change** | Why do my resolutions always fail? | Why do 70% of transformations fail? |
+| 7 | **Learn Better** | Am I reflecting, or just repeating? | Is my org learning, or just reporting? |
 
 ---
 
